@@ -1,1 +1,2 @@
-# legends-translate
+#传说翻译
+这是传说模组的翻译文件
